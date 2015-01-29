@@ -1,0 +1,23 @@
+
+
+table.bordered tr th, table.bordered tr td{
+  border:1px solid black;
+}
+
+h1{
+color:grey;
+font-family: helvetica, sans-serif;
+
+}
+
+body{
+font-family: helvetica, sans-serif;
+
+}
+textarea{
+min-height: 300px;
+}
+.row{
+max-width: 90rem;
+
+}
